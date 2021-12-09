@@ -77,3 +77,15 @@ body{
   .select-container {
     margin-bottom: 3rem;
   }
+
+  .select{
+    width: 100%;
+    padding: .3rem 1rem;
+    border-radius: 10px;
+}
+.select-label{
+  color: white;
+  letter-spacing: 1px;
+  font-size: .8rem;
+  order: 2;
+}
